@@ -10,8 +10,8 @@ This monorepo contains both halves of the app:
 | [`frontend/`](frontend) | Vue 3, Vuex, Vue Router, Tailwind CSS, Vuesax Alpha | Single-page app |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SifeYassine/portfolio/main/assets/images/edocs1.png" alt="eDocs screenshot" width="48%" />
-  <img src="https://raw.githubusercontent.com/SifeYassine/portfolio/main/assets/images/edocs2.png" alt="eDocs screenshot" width="48%" />
+  <img src="screenshots/edocs1.png" alt="eDocs screenshot" width="48%" />
+  <img src="screenshots/edocs2.png" alt="eDocs screenshot" width="48%" />
 </p>
 
 ## Features
